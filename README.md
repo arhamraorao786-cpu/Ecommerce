@@ -35,7 +35,7 @@ Users can **track the status of their placed orders**, keeping visibility into w
 
 ## ⚙️ Installation
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/arhamrao18/Ecommerce.git>
 cd django-ecommerce-store
 pip install -r requirements.txt
 python manage.py migrate
